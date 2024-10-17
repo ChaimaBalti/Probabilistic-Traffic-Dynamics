@@ -1,0 +1,22 @@
+The flow of vehicles on roads is an intricate system influenced by numerous
+factors, including infrastructure, traffic regulations, and the behavior of individual
+drivers. As a result, any modifications to the structure of a road can significantly
+impact its overall traffic patterns.
+For our project, we have chosen to investigate the consequences of recent changes
+to the structure of a particular road (36°50’07"N 10°08’04"E) on its traffic flow. By
+employing a probabilistic modeling approach, we aim to understand and quantify
+the effects of these alterations. Such an analysis can provide valuable insights into
+the efficiency, safety, and overall performance of road systems, assisting urban
+planners, transportation engineers, and policymakers in making informed decisions.
+The objective of this study is twofold. Firstly, we will construct a baseline model
+to represent the traffic flow on the road prior to any modifications. This model
+will serve as a reference point, allowing us to gauge the changes brought about by
+the structural adjustments accurately. Secondly, we will develop an updated model
+that incorporates the recent alterations to the road’s design. By comparing the two
+models, we can assess the extent to which the modifications have influenced traffic
+behavior.
+To accomplish this, we will draw upon the model used in part one, common
+sense and real life data gathered through observation . In the following sections of
+10
+this report, we will present our methodology, describe the models employed, outline
+the data collection and analysis procedures, and discuss the results obtained.
